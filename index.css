@@ -15,8 +15,8 @@ body {
     position: fixed;
     height: 100%;
     width: 100%;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
 }
 
 .qr-container {
@@ -52,7 +52,7 @@ body {
     padding: 25px 15px;
 }
 
-.qr-information h3 {
+.qr-information h1 {
     font-size: 25px;
     padding-bottom: 10px;
     color: hsl(218, 44%, 22%);
